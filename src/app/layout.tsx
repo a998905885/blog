@@ -38,12 +38,12 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  applicationName: 'zhangyu.dev',
+  applicationName: 'Yamart Yeh',
   authors: {
-    name: 'zhangyu1818',
-    url: 'https://github.com/zhangyu1818',
+    name: 'Yamart Yeh',
+    url: 'https://test.yamart.work',
   },
-  creator: 'zhangyu1818',
+  creator: 'Yamart Yeh',
   description:
     'Dive into front-end development with a focus on React, cutting-edge frameworks, JavaScript, TypeScript, Swift, Animation and more',
   generator: 'Next.js',
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     'Animation',
     'Swift',
   ],
-  publisher: 'zhangyu1818',
+  publisher: 'Yamart Yeh',
   title: {
     absolute: 'zhangyu.dev',
     template: '%s | zhangyu.dev',
